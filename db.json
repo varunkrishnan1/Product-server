@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "id": "6d48",
+      "p_name": "Ball",
+      "price": "300",
+      "stock": "2"
+    },
+    {
+      "id": "d6c5",
+      "p_name": "Achu",
+      "price": "300",
+      "stock": "0"
+    },
+    {
+      "id": "2f58",
+      "p_name": "Ballon",
+      "price": "200",
+      "stock": "10"
+    }
+  ]
+}
